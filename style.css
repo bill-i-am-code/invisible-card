@@ -17,7 +17,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* background: linear-gradient(rgba(0,0,0, .5),rgba(0,0,0,.5)), url(IMG/bg.jpg) no-repeat center; */
+    background: linear-gradient(rgba(0,0,0, .5),rgba(0,0,0,.5)), url(IMG/bg.jpg) no-repeat center;
     border-radius: 5px;
     overflow: hidden;
     transition: box-shadow 1s;
